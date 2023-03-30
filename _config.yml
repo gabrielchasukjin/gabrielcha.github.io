@@ -1,0 +1,12 @@
+title: Gabriel Cha # your name (or website title) here
+logo: "/assets/square_headshot.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  I'm studying at the intersection of data science, statistics, and society — delving into data science and what it can do for the world. 
+  <br>
+  <a href="http://www.linkedin.com/in/gabrielcha">View my LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+
+colors:
+  crimson: '#900C3F'
