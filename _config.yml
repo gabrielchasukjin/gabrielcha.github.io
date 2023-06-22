@@ -1,8 +1,8 @@
 title: Gabriel Cha # your name (or website title) here
-logo: "/assets/portrait.heic?raw=true" # your photo (or logo) here
+logo: "/assets/portrait.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2>UC San Diego</h2>
-  <h3>BS in Data Science</h3>
+  <h4>Bachelors in Data Science </h4>
   Studying at the intersection of data science and statistics to help better navigate the future.
   <br><br>
   <a href="http://www.linkedin.com/in/gabrielcha">View my LinkedIn Profile</a> 
