@@ -1,4 +1,4 @@
-## Selected projects in data science, data visualization, and statistics
+## Projects in data science, data visualization, and statistics
 
 ---
 
