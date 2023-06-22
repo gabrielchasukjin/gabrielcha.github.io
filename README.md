@@ -6,6 +6,8 @@
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
+<iframe src="assets/optimal_hyperparameter.html" width=700 height=500 frameBorder=0></iframe>
+
 View code on Colab
 
 ---
